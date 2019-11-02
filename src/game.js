@@ -68,7 +68,7 @@ function clearTBL(tbl) {
   } else {
     document.getElementById("info").innerHTML = "Player 2 you start";
   }
-  onClick(tbl);
+  //onClick(tbl);
 }
 
 function checkDraw(tbl) {
